@@ -5,3 +5,4 @@ module.exports = {
     node: true,
     es6: true,
     mocha: true
+  },

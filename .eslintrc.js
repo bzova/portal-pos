@@ -7,3 +7,4 @@ module.exports = {
     mocha: true
   },
   rules: {
+    'space-before-function-paren': ['error', 'never']

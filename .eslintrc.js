@@ -12,3 +12,6 @@ module.exports = {
   globals: {
     contract: true,
     web3: true,
+    assert: true
+  }
+}

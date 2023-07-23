@@ -14,4 +14,5 @@ module.exports = {
     web3: true,
     assert: true
   }
+}  }
 }

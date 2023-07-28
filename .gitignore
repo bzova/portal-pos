@@ -9,3 +9,5 @@ build
 # flat
 
 test-blockchain/genesis.json
+test-blockchain/geth
+test-blockchain/history

@@ -2,3 +2,5 @@
   "extends": "solium:all",
   "rules": {
     "imports-on-top": 1,
+    "variable-declarations": 1,
+    "array-declarations": 1,

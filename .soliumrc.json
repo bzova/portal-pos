@@ -8,3 +8,5 @@
     "lbrace": 0,
     "mixedcase": 0,
     "camelcase": 1,
+    "uppercase": 1,
+    "no-empty-blocks": 1,

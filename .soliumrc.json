@@ -10,3 +10,5 @@
     "camelcase": 1,
     "uppercase": 1,
     "no-empty-blocks": 1,
+    "no-unused-vars": 1,
+    "quotes": 1,

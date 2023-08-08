@@ -12,3 +12,5 @@
     "no-empty-blocks": 1,
     "no-unused-vars": 1,
     "quotes": 1,
+    "error-reason": 0,
+    "indentation": ["error", 4],

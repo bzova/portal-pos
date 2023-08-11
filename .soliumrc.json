@@ -14,3 +14,5 @@
     "quotes": 1,
     "error-reason": 0,
     "indentation": ["error", 4],
+    "arg-overflow": ["error", 8],
+    "whitespace": 1,

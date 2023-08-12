@@ -16,3 +16,5 @@
     "indentation": ["error", 4],
     "arg-overflow": ["error", 8],
     "whitespace": 1,
+    "deprecated-suicide": 1,
+    "pragma-on-top": 1,

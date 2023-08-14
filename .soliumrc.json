@@ -18,3 +18,5 @@
     "whitespace": 1,
     "deprecated-suicide": 1,
     "pragma-on-top": 1,
+    "no-experimental": 0,
+    "security/enforce-explicit-visibility": ["error"],

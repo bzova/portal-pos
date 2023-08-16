@@ -21,3 +21,4 @@
     "no-experimental": 0,
     "security/enforce-explicit-visibility": ["error"],
     "security/no-block-members": ["warning"],
+    "security/no-low-level-calls": 0,

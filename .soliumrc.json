@@ -23,3 +23,5 @@
     "security/no-block-members": ["warning"],
     "security/no-low-level-calls": 0,
     "security/no-inline-assembly": 0
+  }
+}
